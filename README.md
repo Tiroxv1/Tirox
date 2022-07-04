@@ -18,8 +18,6 @@
         <a href="https://www.w3schools.com/css/css_intro.asp" target="_blank"> <img src="https://i.imgur.com/tUeDIz9.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
 </p>
 
 <p align="center">
@@ -50,8 +48,8 @@
 
 <div align="center"> 
 
-  <a href="https://www.instagram.com/NitePlays" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/48px-Instagram_icon.png" target="_blank"></a>
-  <a href="https://www.discord.com/users/510700800641597440" target="_blank"><img width="48" height="48" src="https://www.svgrepo.com/show/353655/discord-icon.svg" target="_blank"></a>
+  <a href="https://www.instagram.com/o4wy" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/48px-Instagram_icon.png" target="_blank"></a>
+  <a href="https://www.discord.com/users/322182857655320576" target="_blank"><img width="48" height="48" src="https://www.svgrepo.com/show/353655/discord-icon.svg" target="_blank"></a>
   
 
  
