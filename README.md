@@ -14,7 +14,6 @@
 <p align="center"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java.png"/> </a> 
       <a href="https://www.w3schools.com/html/html_intro.aspt" target="_blank"> <img src="https://i.imgur.com/Wed1Uq4.png"/> </a>
-        <a href="https://www.w3schools.com/css/css_intro.asp" target="_blank"> <img src="https://i.imgur.com/tUeDIz9.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
 </p>
