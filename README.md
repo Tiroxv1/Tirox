@@ -19,18 +19,18 @@
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img title=🔥 src="https://github-readme-streak-stats.herokuapp.com/?user=NitePlays&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title=🔥 src="https://github-readme-streak-stats.herokuapp.com/?user=Tiroxv1&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 <div align="center">
-  <a href="https://github.com/NitePlays">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NitePlays&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitePlays&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/Tiroxv1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiroxv1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiroxv1&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=NitePlays&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors"></a>
+<img src="https://komarev.com/ghpvc/?username=Tiroxv1&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors"></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=008042&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/NitePlays" alt="Profile Stars"></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=008042&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/NitePlays" alt="Profile Forks"></a>
 </div>
