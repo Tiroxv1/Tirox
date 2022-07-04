@@ -1,11 +1,11 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ahmed.</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ali.</h1>
 <h3 align="center">I'm a Developer from Saudi Arabia.</h3>
 
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **Javascript & php**
+- 🌱 I’m currently learning **Java & Nodejs**
 
 - ⚡ Fun fact: **I play games and watch anime.**
 
